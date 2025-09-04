@@ -377,21 +377,6 @@ h6 {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 768px) {
   .footer {
     padding: 60px 0 0;
@@ -1002,6 +987,10 @@ section,
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
+#menu {
+    scroll-margin-top: 30px;
+}
+
 .menu .menu-filters {
   margin-bottom: 50px;
 }
